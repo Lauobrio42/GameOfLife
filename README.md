@@ -7,3 +7,6 @@ Pour commencer le jeu cliquez sur 'Play'.
 Pour mettre pause dans le jeu, cliquez sur la barre espace.
 Pour réinitialiser les cellules cliquez sur 'R'.
 Pour effacer toutes les cellules vivantes, cliquez sur 'C'.
+
+!<GameOfLife1>(https://github.com/LaurineObriot/GameOfLife/blob/master/Screenshots/GAMEOFLIFE1.PNG)
+!<GameOfLife2>(https://github.com/LaurineObriot/GameOfLife/blob/master/Screenshots/GAMEOFLIFE12PNG.PNG)
