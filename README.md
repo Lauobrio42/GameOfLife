@@ -1,6 +1,6 @@
 # GameOfLife
 
-Ce projet à été réalisé dans le cadre d'un exercice sur 2 semaines à l'école ADA Tech School, avec https://github.com/Nydragon00 et https://github.com/lydiasan.
+Ce projet à été réalisé dans le cadre d'un exercice sur 2 semaines à l'école ADA Tech School, avec https://github.com/Nydragon00 et https://github.com/lydiasan. Lein du prédédent dépot : https://github.com/adatechschool/GameOfLife .
 
 Le but de ce projet était de reproduire le fonctionnement du Jeu de la vie (https://fr.wikipedia.org/wiki/Jeu_de_la_vie) en langage Processing.
 
